@@ -31,14 +31,15 @@ DevOps: Docker, Kubernetes, Terraform, Jenkins, CI/CD, GitHub Actions
 🏥 [Dr. Online](https://github.com/Srija-Nandipati/dr-online)  
 A health management app for booking appointments, tracking health updates, and ordering medicines.  
 
-🦠 [COVID-19 Simulation](https://github.com/Srija-Nandipati/covid-simulation)  
+🦠 [COVID-19 Simulation](https://github.com/Srija-Nandipati/covid19simulation)  
 Simulated virus spread using **Markov Chains** and demographic data analysis.  
 
-📚 [Readmendations](https://github.com/Srija-Nandipati/readmendations)  
-A personalized book recommendation system built with ML & AI.  
+📚 [Readmendations](https://github.com/Srija-Nandipati/bookrecsystem)
+A personalized book recommendation system.  
 
 🚗 [Traffic Flow Simulation](https://github.com/Srija-Nandipati/traffic-flow)  
 Used cellular automata models to analyze traffic congestion and flow patterns.  
+
 
 📫 Connect with Me  
 
