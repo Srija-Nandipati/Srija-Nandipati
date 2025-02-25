@@ -20,26 +20,10 @@ Machine Learning: TensorFlow, OpenCV, YOLO, Scikit-learn, NLTK
 
 ☁️ Cloud & DevOps  
 Cloud: AWS (EC2, ECS, Lambda)  
-DevOps: Docker, Kubernetes, Terraform, Jenkins, CI/CD, GitHub Actions  
+DevOps: Docker, Kubernetes, Terraform, Jenkins, CI/CD, GitHub Actions,Postman, SonarQube
 
 🔬 Other  
  Databases:Firebase, PostgreSQL  
- Methodologies: Agile/Scrum, Product Management, Threat Modeling  
-
-🚀 Featured Projects  
-
-🏥 [Dr. Online](https://github.com/Srija-Nandipati/dr-online)  
-A health management app for booking appointments, tracking health updates, and ordering medicines.  
-
-🦠 [COVID-19 Simulation](https://github.com/Srija-Nandipati/covid19simulation)  
-Simulated virus spread using **Markov Chains** and demographic data analysis.  
-
-📚 [Readmendations](https://github.com/Srija-Nandipati/bookrecsystem)
-A personalized book recommendation system.  
-
-🚗 [Traffic Flow Simulation](https://github.com/Srija-Nandipati/traffic-flow)  
-Used cellular automata models to analyze traffic congestion and flow patterns.  
-
 
 📫 Connect with Me  
 
